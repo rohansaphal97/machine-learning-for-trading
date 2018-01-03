@@ -1,2 +1,2 @@
 # machine-learning-for-trading
-Machine learning techniques applied to trading. Learned during CS 7646.
+Machine learning techniques learned during CS 7646 applied to trading.
